@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name GBOYFrontController-rescue)(type Legacy)(uri ${KIPRJMOD}/GBOYFrontController-rescue.lib)(options "")(descr ""))
+)
