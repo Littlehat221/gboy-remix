@@ -8,3 +8,8 @@ Included are KICAD files so anyone can edit them for their own project, as well 
 Also inclued are fusion files for easy editing. No more .stl conversions.
 
 BOM links are probably going to die.
+
+TODO:
+- include BOM
+- .f3d files
+- new PCB not using 4layertech boards
